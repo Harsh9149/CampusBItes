@@ -1,0 +1,9 @@
+#brandname {
+    font-family: 'Dancing Script', cursive, sans-serif;
+    text-transform: none;
+    font-size: 4vh;
+    /* font-weight: 800; */
+    margin-bottom: 0;
+    margin-left: 2vh;
+    color: blueviolet;
+}
